@@ -4,5 +4,7 @@
 
 int main()
 {
-  printf("Hello World");
+  printf("Hello World\n");
+  printf("Size of Int = %d",sizeof(int));
+  return 0;
 }
