@@ -5,6 +5,6 @@
 int main()
 {
   printf("Hello World\n");
-  printf("Size of Int = %d",sizeof(int));
+  printf("Size of Int = %lu", sizeof(int));
   return 0;
 }
